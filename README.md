@@ -61,7 +61,7 @@ END
 
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-<img width="1092" height="619" alt="Screenshot 2025-09-22 000441" src="https://github.com/user-attachments/assets/5de19720-6037-40c4-a4aa-1442e97fb696" />
+![WhatsApp Image 2025-11-06 at 19 18 09_7775ec2c](https://github.com/user-attachments/assets/7d0610e9-224c-4ad6-8852-7694dda187eb)
 
 ## 2. SUBTRACTION
 
@@ -108,7 +108,8 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="1099" height="629" alt="Screenshot 2025-09-22 073731" src="https://github.com/user-attachments/assets/0e1c9be0-f051-4d98-a4ff-0edbbbdb6707" />
+![WhatsApp Image 2025-11-06 at 19 18 56_c7633fd6](https://github.com/user-attachments/assets/e312e913-3b08-48be-8fdc-8f92d8153220)
+
 
 ## 3. MULTIPLICATION
 
@@ -151,7 +152,7 @@ END
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-![WhatsApp Image 2025-09-22 at 12 57 02_b4374189](https://github.com/user-attachments/assets/58ebd63a-cf55-4f33-983c-acf9e9946fff)
+![WhatsApp Image 2025-11-06 at 19 19 34_45fa07f6](https://github.com/user-attachments/assets/f5360731-4ab6-453e-9904-30fbc920e350)
 
 ## 4. DIVISION
 
@@ -190,7 +191,8 @@ END
 
 
 ## OUTPUT FROM MASM SOFTWARE
-![WhatsApp Image 2025-09-22 at 12 40 33_d8cde06b](https://github.com/user-attachments/assets/7e82f6ba-f4cb-4c0b-a704-b799c07e0f00)
+![WhatsApp Image 2025-11-06 at 19 20 34_eaa3ba02](https://github.com/user-attachments/assets/34203869-e141-4fa7-8d92-ba638ede7509)
+
 
 
 
